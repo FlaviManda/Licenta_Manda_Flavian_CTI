@@ -1,3 +1,5 @@
+https://github.com/FlaviManda/Licenta_Manda_Flavian_CTI
+
 Instalare și rulare
 1. Clonează proiectul
 git clone https://github.com/username/calorievisor.git
